@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "fastify": "^2.10.0",
-    "fastify-static": "^2.5.0",
+    "fastify-static": "^4.2.4",
     "ip": "^1.1.5",
     "socket.io": "^2.3.0"
   }
